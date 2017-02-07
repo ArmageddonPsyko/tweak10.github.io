@@ -1,0 +1,9 @@
+Package: com.ios10tweak.gifviewer
+Name: GIFViewer
+Version: 1.0.3-2
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Author: Jerry En
+Depiction: 
+Section: Tweaks
+Description: View animated GIFs in Photos.app and the image picker.
